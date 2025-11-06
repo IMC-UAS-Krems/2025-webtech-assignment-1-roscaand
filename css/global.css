@@ -95,7 +95,7 @@ body {
 /* Welcome Page Background Image Styling */
 .image-section-main {
     position: relative;
-    background-image: url('images/peak.jpg');
+    background-image: url('../images/peak.jpg');
     background-size: cover;    /* the image covers the section */
     background-position: center;
     height: 500px;            
@@ -293,7 +293,7 @@ body {
 
 .image-section-about {
     position: relative;
-    background-image: url('images/background2.jpg');
+    background-image: url('../images/background2.jpg');
     background-size: cover;    
     background-position: center;
     height: 500px;            
@@ -693,7 +693,7 @@ body {
 
 .image-section-pictures {
     position: relative;
-    background-image: url('images/background4.jpg');
+    background-image: url('../images/background4.jpg');
     background-size: cover;    
     background-position: center;
     height: 500px;            
@@ -826,7 +826,7 @@ button {
 /* Formula 1 Styling */
 .image-section-formula1 {
     position: relative;
-    background-image: url('images/f1.jpg');
+    background-image: url('../images/f1.jpg');
     background-size: cover;    
     background-position: center;
     height: 500px;            
